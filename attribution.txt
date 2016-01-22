@@ -1,0 +1,21 @@
+Slack Trash Talk
+Version 0.0.2
+Attribution Details
+
+Trash Talk Icon Source
+----
+URL:        https://commons.wikimedia.org/wiki/File:Trash_font_awesome.svg
+Author:     Dave Gandy
+Website:    http://fortawesome.github.com/Font-Awesome
+License:    CC Attribution-ShareAlike 3.0 Unported (https://creativecommons.org/licenses/by-sa/3.0/deed.en)
+
+URL:        https://www.iconfinder.com/icons/622413/bubble_chat_chatterbox_comment_message_text_icon#size=128 
+Author:     Sooodesign
+Website:    https://www.iconfinder.com/Sooodesign
+License:    Creative Commons (Attribution 3.0 Unported) (https://creativecommons.org/licenses/by/3.0/)
+
+Trash Talk Quotes
+----
+URL:        http://daviseford.com/shittalk
+Author:     Davis Ford
+Note:       Quotes currently not included in repository
